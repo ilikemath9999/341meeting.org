@@ -2,7 +2,7 @@
 
 > Plain-English guide to the 341 meeting of creditors under 11 U.S.C. Section 341.
 
-341meeting.org is a free, open-source educational resource about the 341 meeting of creditors in bankruptcy. Part of the Bankruptcy Transparency Network.
+341meeting.org is a free, open-source educational resource about the 341 meeting of creditors in bankruptcy. Part of the Open Bankruptcy Project.
 
 ## Pages
 
