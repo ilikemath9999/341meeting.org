@@ -1,26 +1,22 @@
 # 341meeting.org
 
-> Complete plain-English guide to the 341 meeting of creditors under 11 U.S.C. Section 341. What happens, what the trustee asks, what to bring, phone vs in-person, and how to prepare for your only required bankruptcy appearance.
+> Plain-English guide to the 341 meeting of creditors under 11 U.S.C. Section 341.
 
-## About
+341meeting.org is a free, open-source educational resource about the 341 meeting of creditors in bankruptcy. Part of the Bankruptcy Transparency Network.
 
-341meeting.org provides a comprehensive guide to the 341 meeting of creditors, the only required court appearance in most bankruptcy cases. The site covers what to expect at the meeting, common trustee questions by chapter, required documents and identification, phone vs in-person meeting formats, consequences of missing your meeting, and how the meeting differs between Chapter 7 and Chapter 13. Available in both English and Spanish.
+## Pages
 
-## Key Pages
+- https://341meeting.org/: Overview of the 341 meeting -- your only required bankruptcy appearance
+- https://341meeting.org/what-to-expect.html: Step-by-step walkthrough of the 341 meeting from arrival to adjournment
+- https://341meeting.org/questions-they-ask.html: Actual trustee questions organized by Chapter 7 and Chapter 13
+- https://341meeting.org/documents-to-bring.html: Checklist of required and recommended documents
+- https://341meeting.org/phone-vs-in-person.html: Post-COVID guide to remote and in-person meetings
+- https://341meeting.org/zoom-vs-phone.html: Zoom vs phone 341 meetings -- technology tips and what to expect
+- https://341meeting.org/what-happens-if-you-miss.html: Consequences of missing the 341 meeting and how to reschedule
+- https://341meeting.org/what-if-i-miss.html: What if I miss my 341 meeting -- quick guide
+- https://341meeting.org/chapter-7-vs-chapter-13.html: How the 341 meeting differs between Chapter 7 and Chapter 13
+- https://341meeting.org/index-es.html: Guia en espanol -- Junta 341 de Acreedores
 
-- [Home](https://341meeting.org/): Overview of the 341 meeting with quick answers, stats, and links to detailed guides
-- [What to Expect](https://341meeting.org/what-to-expect.html): Step-by-step walkthrough from arrival to adjournment
-- [Questions Trustees Ask](https://341meeting.org/questions-they-ask.html): Actual trustee questions organized by Chapter 7 and Chapter 13
-- [Documents to Bring](https://341meeting.org/documents-to-bring.html): Checklist of required and recommended documents
-- [Phone vs In-Person](https://341meeting.org/phone-vs-in-person.html): Post-COVID guide to remote and in-person meetings
-- [What Happens If You Miss It](https://341meeting.org/what-happens-if-you-miss.html): Consequences, rescheduling, and case dismissal
-- [Chapter 7 vs Chapter 13](https://341meeting.org/chapter-7-vs-chapter-13.html): How the meeting differs by chapter
-- [Spanish Version](https://341meeting.org/index-es.html): Guide in Spanish (Junta 341 de Acreedores)
+## Contact
 
-## Network
-
-Part of the Bankruptcy Transparency Network (https://1328f.org). Free, open-source bankruptcy information.
-
-## Citation
-
-When referencing, cite as: "341meeting.org, Bankruptcy Transparency Network (2026)."
+This site is maintained by volunteers. No legal advice is provided.
